@@ -11,8 +11,9 @@
 **Семинар**: Базовая работа с прочтениями. SRA-Toolkit, SRA-Explorer, FastQC, MultiQC. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B/01_%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0_%D1%81_%D0%BF%D1%80%D0%BE%D1%87%D1%82%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8.ipynb)<br>
 **Запись**: https://www.youtube.com/watch?v=KxkTMlaPp9s
 
-2. **Лекция**: Выравнивания (STAR, HISAT2) и псевдовыравнивания (kallisto, Salmon). EM-алгоритм для оценки представленности транскриптов (RSEM)<br>
-**Семинар**: «препарирование» EM-алгоритма и его реализация на Python
+2. **Лекция**: Выравнивания (STAR, HISAT2) и псевдовыравнивания (kallisto, Salmon). EM-алгоритм для оценки представленности транскриптов (RSEM). [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/02.%20Выравнивания.pdf)<br>
+**Семинар**: «препарирование» EM-алгоритма и его реализация на Python. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/02_EM_алгоритм.ipynb)<br>
+**Запись**: https://www.youtube.com/watch?v=LKukq5G8w-M&feature=youtu.be
 
 3. **Лекция**: Основные распределения, встречающиеся в омиксных данных. Методы нормализации в bulk RNA-Seq: от RPKM и TPM до RLE и TMM. Контроль за дисперсией в данных<br>
 **Семинар**: Статистические подходы к определению максимально правдоподобных распределений данных
