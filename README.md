@@ -13,7 +13,7 @@
 
 2. **Лекция**: Выравнивания (STAR, HISAT2) и псевдовыравнивания (kallisto, Salmon). EM-алгоритм для оценки представленности транскриптов (RSEM). [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/02.%20Выравнивания.pdf)<br>
 **Семинар**: «препарирование» EM-алгоритма и его реализация на Python. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/02_EM_алгоритм.ipynb)<br>
-**Запись**: https://www.youtube.com/watch?v=LKukq5G8w-M&feature=youtu.be
+**Запись**: https://www.youtube.com/watch?v=LKukq5G8w-M
 
 3. **Лекция**: Основные распределения, встречающиеся в омиксных данных. Методы нормализации в bulk RNA-Seq: от RPKM и TPM до RLE и TMM. Контроль за дисперсией в данных<br>
 **Семинар**: Статистические подходы к определению максимально правдоподобных распределений данных
