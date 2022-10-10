@@ -4,4 +4,4 @@
 
 ## Задание по блоку «Bulk RNA-Seq»
 
-Внимательно прочитайте статью 
+Внимательно прочитайте статью [Takahashi et al., **Neuron**, 2022](https://github.com/serjisa/transcriptomics.msu/blob/main/Проекты/Takahashi%20et%20al.%2C%20Neuron%2C%202022.pdf)
