@@ -23,8 +23,9 @@
 **Семинар**: Написание собственного алгоритма определения дифференциально экспрессированных генов. Работа с пакетами DESeq2 и edgeR. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/04_Дифференциальная_экспрессия.ipynb)<br>
 **Запись**: https://www.youtube.com/watch?v=okVJqArrw4Y
 
-5. **Лекция**: Системный анализ bulk RNA-Seq: анализ обогащённости (GO Enrichment Analysis), Gene Set Enrichment Analysis (GSEA и ssGSEA). Работа с экспрессионными данными на уровне генных сигнатур. Понятие деконволюции bulk RNA-Seq<br>
-**Семинар**: Практическая работа с экспрессионными данными на уровне генных сигнатур. Сравнение различных подходов к определению клеточного состава bulk RNA-Seq (signature-based vs. deconvolution)
+5. **Лекция**: Системный анализ bulk RNA-Seq: анализ обогащённости (GO Enrichment Analysis), Gene Set Enrichment Analysis (GSEA и ssGSEA). Работа с экспрессионными данными на уровне генных сигнатур. Понятие деконволюции bulk RNA-Seq. [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/05.%20Функциональный%20анализ.pdf)<br>
+**Семинар**: Практическая работа с экспрессионными данными на уровне генных сигнатур. Сравнение различных подходов к определению клеточного состава bulk RNA-Seq (signature-based vs. deconvolution). [Jupyter-notebook](github.com/serjisa/transcriptomics.msu/blob/main/Семинары/05_Функциональный_анализ.ipynb)<br>
+**Запись**: https://www.youtube.com/watch?v=OcxfIKVu0-s
 
 6. **Лекция**: Понятие и необходимость scRNA-Seq. Методы подготовки библиотек scRNA-Seq. Сравнение различных подходов для подготовок библиотек для scRNA-Seq. Batch effect в данных scRNA-Seq<br>
 **Семинар**: Работа с базами данных scRNA-Seq. Дискуссия на тему правильного выбора стратегии подготовки библиотек. Основы работы с библиотеками scanpy и Seurat
