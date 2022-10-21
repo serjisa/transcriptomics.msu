@@ -27,8 +27,9 @@
 **Семинар**: Практическая работа с экспрессионными данными на уровне генных сигнатур. Сравнение различных подходов к определению клеточного состава bulk RNA-Seq (signature-based vs. deconvolution). [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/05_Функциональный_анализ.ipynb)<br>
 **Запись**: https://www.youtube.com/watch?v=OcxfIKVu0-s
 
-6. **Лекция**: Понятие и необходимость scRNA-Seq. Методы подготовки библиотек scRNA-Seq. Сравнение различных подходов для подготовок библиотек для scRNA-Seq. Batch effect в данных scRNA-Seq<br>
-**Семинар**: Работа с базами данных scRNA-Seq. Дискуссия на тему правильного выбора стратегии подготовки библиотек. Основы работы с библиотеками scanpy и Seurat
+6. **Лекция**: Понятие и необходимость scRNA-Seq. Методы подготовки библиотек scRNA-Seq. Сравнение различных подходов для подготовок библиотек для scRNA-Seq. Batch effect в данных scRNA-Seq. [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/06.%20scRNA-Seq.pdf)<br>
+**Семинар**: Работа с базами данных scRNA-Seq. Дискуссия на тему правильного выбора стратегии подготовки библиотек. Основы работы с библиотеками scanpy и Seurat. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/06_Основы_работы_со_scanpy_и_Seurat.ipynb)
+**Запись**: https://www.youtube.com/watch?v=GliXLQkatzs
 
 7. **Лекция**: Выравнивания и псевдовыравнивания в scRNA-Seq. Контроль качества клеток в scRNA-Seq. Определение и устранение пустых клеток и дублетов. Очистка от примешавшейя РНК (DecontX)<br>
 **Семинар**: Собственная реализация алгоритма поиска пустых капель
