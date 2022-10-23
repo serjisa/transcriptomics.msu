@@ -31,8 +31,9 @@
 **Семинар**: Работа с базами данных scRNA-Seq. Дискуссия на тему правильного выбора стратегии подготовки библиотек. Основы работы с библиотеками scanpy и Seurat. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/06_Основы_работы_со_scanpy_и_Seurat.ipynb)<br>
 **Запись**: https://www.youtube.com/watch?v=GliXLQkatzs
 
-7. **Лекция**: Выравнивания и псевдовыравнивания в scRNA-Seq. Контроль качества клеток в scRNA-Seq. Определение и устранение пустых клеток и дублетов. Очистка от примешавшейя РНК (DecontX)<br>
-**Семинар**: Собственная реализация алгоритма поиска пустых капель
+7. **Лекция**: Выравнивания и псевдовыравнивания в scRNA-Seq. Контроль качества клеток в scRNA-Seq. Определение и устранение пустых клеток и дублетов. Очистка от примешавшейя РНК (DecontX). [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/07.%20QC.pdf)<br>
+**Семинар**: Собственная реализация алгоритма поиска пустых капель. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/07_Контроль_качества.ipynb)<br>
+**Запись**: https://www.youtube.com/watch?v=u8AnZrgF9xY
 
 8. **Лекция**: Процессинг данных scRNA-Seq: сходства и различия с bulk RNA-Seq. SCTransform, LogNorm, pagoda2 и прочие способы контроля за дисперсией данных<br>
 **Семинар**: Собственная реализация алгоритма SCTransform
