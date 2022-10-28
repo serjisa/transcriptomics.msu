@@ -31,12 +31,12 @@
 **Семинар**: Работа с базами данных scRNA-Seq. Дискуссия на тему правильного выбора стратегии подготовки библиотек. Основы работы с библиотеками scanpy и Seurat. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/06_Основы_работы_со_scanpy_и_Seurat.ipynb)<br>
 **Запись**: https://www.youtube.com/watch?v=GliXLQkatzs
 
-7. **Лекция**: Выравнивания и псевдовыравнивания в scRNA-Seq. Контроль качества клеток в scRNA-Seq. Определение и устранение пустых клеток и дублетов. Очистка от примешавшейя РНК (DecontX). [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/07.%20QC.pdf)<br>
+7. **Лекция**: Выравнивания и псевдовыравнивания в scRNA-Seq. Контроль качества клеток в scRNA-Seq. Определение и устранение пустых клеток и дублетов. [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/07.%20QC.pdf)<br>
 **Семинар**: Собственная реализация алгоритма поиска пустых капель. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/07_Контроль_качества.ipynb)<br>
 **Запись**: https://www.youtube.com/watch?v=u8AnZrgF9xY
 
 8. **Лекция**: Процессинг данных scRNA-Seq: сходства и различия с bulk RNA-Seq. SCTransform, LogNorm, pagoda2 и прочие способы контроля за дисперсией данных<br>
-**Семинар**: Собственная реализация алгоритма SCTransform
+**Семинар**: Сравнительный разбор подходов к контролю за дисперсией в данных
 
 9. **Лекция**: Проклятие размерности. Feature selection при помощи регуляризаций. Методы feature selection, принятые в scRNA-Seq: выделение высоко-вариабельных генов и подходы к этому выделению. Методы снижения размерности: PCA, t-SNE, UMAP, ForceAtlas2. Графовое представление данных<br>
 **Семинар**: Работа с различными методами снижения размерности в scanpy<br>
