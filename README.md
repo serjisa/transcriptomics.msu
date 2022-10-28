@@ -35,7 +35,7 @@
 **Семинар**: Собственная реализация алгоритма поиска пустых капель. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/07_Контроль_качества.ipynb)<br>
 **Запись**: https://www.youtube.com/watch?v=u8AnZrgF9xY
 
-8. **Лекция**: Процессинг данных scRNA-Seq: сходства и различия с bulk RNA-Seq. SCTransform, LogNorm, pagoda2 и прочие способы контроля за дисперсией данных. [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/08.%20Контроль%20за%20дисперсией.pdf)<br>
+8. **Лекция**: Процессинг данных scRNA-Seq: сходства и различия с bulk RNA-Seq. SCTransform, LogNorm, pagoda2 и прочие способы контроля за дисперсией данных. [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/08.%20Нормализация.pdf)<br>
 **Семинар**: Сравнительный разбор подходов к контролю за дисперсией в данных. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/08_Контроль_за_дисперсией.ipynb)<br>
 **Запись**: https://www.youtube.com/watch?v=_kkFKvipMP0
 
