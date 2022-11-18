@@ -6,6 +6,9 @@
 
 Занятия проходят по **пятницам с 15:35 до 18:55** по московскому времени (GMT +3). Подключиться к занятиям можно [при помощи Zoom](https://us06web.zoom.us/j/88295135967?pwd=YUppMnhwSDNXU0t1Z1FWalJtM0dLQT09). Также доступны онлайн YouTube-трансляции (следите за обновлениями на странице [Teach-in](https://www.youtube.com/c/NAUKA0)).
 
+## Комментарий по запуску Jupyter-notebook в Google Colab
+Если у вас не работает `rpy2` при использовании Google Colab, то возможным решением проблемы будет установка более старой версии пакета при помощи команды `!pip install rpy2==3.5.1`.
+
 ## Программа курса
 1. **Лекция**: Технологии секвенирования следующего поколения (NGS). Экспериментальные подходы к секвенированию РНК тканей (bulk RNA-Seq). Сходства и различия с микрочиповыми технологиями. Основные базы данных (SRA, GEO). [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/01.%20NGS%20и%20RNA-Seq.pdf)<br>
 **Семинар**: Базовая работа с прочтениями. SRA-Toolkit, SRA-Explorer, FastQC, MultiQC. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/01_Базовая_работа_с_прочтениями.ipynb)<br>
@@ -43,8 +46,9 @@
 **Семинар**: Работа с различными методами снижения размерности в scanpy. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/09_Снижение_размерности.ipynb)<br>
 **Запись**: https://youtu.be/E2BxSYmGGNI
 
-10. **Лекция**: Подходы к устранению батч-эффекта в scRNA-Seq: Harmony, bbkNN, Scanorama, MNN, conos. Анализ методом канонических корреляций (CCA)<br>
-**Семинар**: Сравнение подходов для устранения батч-эффектов в данных scRNA-Seq
+10. **Лекция**: Подходы к устранению батч-эффекта в scRNA-Seq: Harmony, bbkNN, Scanorama, MNN, conos. Анализ методом канонических корреляций (CCA). [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/10.%20Устранение%20батч-эффекта.pdf)<br>
+**Семинар**: Сравнение подходов для устранения батч-эффектов в данных scRNA-Seq. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/10_Коррекция_батч_эффекта.ipynb)<br>
+**Запись**: https://www.youtube.com/watch?v=Ng05Vt5V23g
 
 11. **Лекция**: Использование вариационных аутоэнкодеров для процессинга scRNA-Seq. scVI-tools<br>
 **Семинар**: Препарирование scVI, написание собственного вариационного аутоэнкодера на PyTorch и Pyro
