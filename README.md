@@ -50,8 +50,9 @@
 **Семинар**: Сравнение подходов для устранения батч-эффектов в данных scRNA-Seq. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/10_Коррекция_батч_эффекта.ipynb)<br>
 **Запись**: https://www.youtube.com/watch?v=Ng05Vt5V23g
 
-11. **Лекция**: Использование вариационных аутоэнкодеров для процессинга scRNA-Seq. scVI-tools<br>
-**Семинар**: Препарирование scVI, написание собственного вариационного аутоэнкодера на PyTorch и Pyro
+11. **Лекция**: Использование вариационных аутоэнкодеров для процессинга scRNA-Seq. scVI-tools. [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/11.%20Вариационные%20автоэнкодеры.pdf)<br>
+**Семинар**: Препарирование scVI, написание собственного вариационного аутоэнкодера на PyTorch и Pyro. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/11_Вариационные_автоэнкодеры.ipynb)<br>
+**Запись**: https://www.youtube.com/watch?v=rseFOnEG1nM
 
 12. **Лекция**: Подходы к кластеризации данных. Иерархическая кластеризация, K-Means, графовые алгоритмы кластеризации (Louvain, Leiden, SNN). Понятие стабильности кластера, бутстрэп<br>
 **Семинар**: Реализация алгоритма оценки стабильности кластеров
