@@ -44,7 +44,7 @@
 
 9. **Лекция**: Проклятие размерности. Feature selection при помощи регуляризаций. Методы feature selection, принятые в scRNA-Seq: выделение высоко-вариабельных генов и подходы к этому выделению. Методы снижения размерности: PCA, t-SNE, UMAP, ForceAtlas2. Графовое представление данных. [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/09.%20Методы%20снижения%20размерности.pdf)<br>
 **Семинар**: Работа с различными методами снижения размерности в scanpy. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/09_Снижение_размерности.ipynb)<br>
-**Запись**: https://youtu.be/E2BxSYmGGNI
+**Запись**: https://www.youtube.com/watch?v=E2BxSYmGGNI
 
 10. **Лекция**: Подходы к устранению батч-эффекта в scRNA-Seq: Harmony, bbkNN, Scanorama, MNN, conos. Анализ методом канонических корреляций (CCA). [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/10.%20Устранение%20батч-эффекта.pdf)<br>
 **Семинар**: Сравнение подходов для устранения батч-эффектов в данных scRNA-Seq. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/10_Коррекция_батч_эффекта.ipynb)<br>
