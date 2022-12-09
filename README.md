@@ -57,7 +57,7 @@
 **Запись**: https://www.youtube.com/watch?v=rseFOnEG1nM
 
 12. **Лекция**: Подходы к кластеризации данных. Иерархическая кластеризация, K-Means, графовые алгоритмы кластеризации (Louvain, Leiden, SNN). Понятие стабильности кластера, бутстрэп. [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/12.%20Подходы%20к%20кластеризации.pdf)<br>
-**Семинар**: Реализация алгоритма оценки стабильности кластеров. [Jupyter-notebook])(https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/12_Кластеризация_и_её_стабильность.ipynb)<br>
+**Семинар**: Реализация алгоритма оценки стабильности кластеров. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/12_Кластеризация_и_её_стабильность.ipynb)<br>
 **Запись**: https://www.youtube.com/watch?v=97TgrEl1YV8
 
 13. **Лекция**: Определение траекторий дифференцировки клеток в scRNA-Seq: Monocle2, Monocle3, иные подходы. Обобщённые аддитивные модели (GAM) и их использование для определения генов, которые меняют свою экспрессию по ходу дифференцировки клеток. RNA velocity<br>
