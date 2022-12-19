@@ -62,7 +62,7 @@
 
 13. **Лекция**: Определение траекторий дифференцировки клеток в scRNA-Seq: Monocle2, Monocle3, иные подходы. Обобщённые аддитивные модели (GAM) и их использование для определения генов, которые меняют свою экспрессию по ходу дифференцировки клеток. RNA velocity. [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/13.%20Дифференцировка%20клеток.pdf)<br>
 **Семинар**: Написание собственного алгоритма определения генов, которые меняют свою экспрессию по ходу псевдо-времени. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/13_Дифференцировка_клеток.ipynb)<br>
-**Запись**: https://www.youtube.com/watch?v=0XbXUaQ0QzE&feature=youtu.be
+**Запись**: https://www.youtube.com/watch?v=0XbXUaQ0QzE
 
 14. **Лекция**: Определение типов клеток в scRNA-Seq: автоматическое и мануальное. Поиск взаимодействий между различными типами клеток, CellPhoneDB. [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/14.%20Определение%20типов%20клеток.pdf)<br>
 **Семинар**: Написание алгоритма автоматического определения типов клеток. Сравнение существующих алгоритмов. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/14_Определение_типов_клеток.ipynb)<br>
