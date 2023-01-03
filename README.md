@@ -68,7 +68,7 @@
 **Семинар**: Написание алгоритма автоматического определения типов клеток. Сравнение существующих алгоритмов. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/14_Определение_типов_клеток.ipynb)<br>
 **Запись**: https://www.youtube.com/watch?v=Xo7iyrmbN5c
 
-15. **Лекция**: Мультимодальные омики одиночных клеток. Подходы для анализа мультимодальных омик одиночных клеток: MOFA, WNN, totalVI, multiVI. CLR-transformation в омиксных данных. Работа с омиксными данными как с композиционными данными. [Презентация](https://github.com/serjisa/transcriptomics.msu)<br>
+15. **Лекция**: Мультимодальные омики одиночных клеток. Подходы для анализа мультимодальных омик одиночных клеток: MOFA, WNN, totalVI, multiVI. CLR-transformation в омиксных данных. Работа с омиксными данными как с композиционными данными. [Презентация](https://github.com/serjisa/transcriptomics.msu/blob/main/Лекции/15.%20Анализ%20мультимодальных%20омик%20одиночных%20клеток.pdf)<br>
 **Семинар**: Воркшоп по анализу мультимодальных омиксных данных. [Jupyter-notebook](https://github.com/serjisa/transcriptomics.msu/blob/main/Семинары/15_Анализ_CITE_Seq.ipynb)<br>
 **Запись**: https://www.youtube.com/watch?v=45cWECpM6x0
 
